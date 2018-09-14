@@ -1,5 +1,5 @@
-# !!!WORK IN PROGRESS!!!
-
+# Conductor version not maintained anymore
+Since [Android Archtecture Components](https://developer.android.com/topic/libraries/architecture/) and [Jetpack](https://developer.android.com/jetpack/) came out I feel like using fragment again is the right way to go (more documented, wider community, better scalability, easier to integrate developpers since it'b be unlikely they don't know about the standards, etc...)
 # beaver
 
 Android Project template using [Conductor](https://github.com/bluelinelabs/Conductor) with [MVVM](https://developer.android.com/topic/libraries/architecture/index.html) and [Dagger 2](https://github.com/google/dagger).
