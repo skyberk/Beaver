@@ -1,7 +1,7 @@
 # Conductor version not maintained anymore
-Since [Android Archtecture Components](https://developer.android.com/topic/libraries/architecture/) and [Jetpack](https://developer.android.com/jetpack/) came out I feel like using fragment again is the right way to go (more documented, wider community, better scalability, easier to integrate developpers since it'b be unlikely they don't know about the standards, etc...)
+Since [Android Archtecture Components](https://developer.android.com/topic/libraries/architecture/) and [Jetpack](https://developer.android.com/jetpack/) came out I feel like using fragment again is the right way to go (more documented, wider community, better scalability, easier to integrate developpers since it'b be unlikely they don't know about the standards, etc...).
 
-Check master [branch](https://github.com/SamYStudiO/beaver) for fragment version
+Check master [branch](https://github.com/SamYStudiO/beaver) for fragment version.
 
 # beaver
 
